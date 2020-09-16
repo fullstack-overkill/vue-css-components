@@ -1,5 +1,10 @@
 <template>
   <div class="home">
+    <router-link :to="{ name: 'About' }">
+      <button class="page-change">
+        <span class="material-icons">arrow_forward_ios</span>
+      </button>
+    </router-link>
     <div class="paper-shadow">
       <div class="paper">
         <div class="group-comp">
@@ -52,9 +57,7 @@
           <div class="btn-group">
             <div class="paper-comp-shadow">
               <div class="paper-comp">
-                <div class="paper-title">
-                  Home
-                </div>
+                <div class="paper-title">Home</div>
               </div>
             </div>
             <div class="paper-comp-shadow sub-paper">
