@@ -37,15 +37,15 @@
                     </div>
                     <div class="card-paper">
                       <div class="card-paper-title">Marketing</div>
-                      <div class="card-paper-value">23.4 M</div>
+                      <div class="card-paper-value">300.4 M</div>
+                    </div>
+                    <div class="card-paper card-paper-erro">
+                      <div class="card-paper-title">Error</div>
+                      <div class="card-paper-value">N/A</div>
                     </div>
                     <div class="card-paper">
                       <div class="card-paper-title">Marketing</div>
-                      <div class="card-paper-value">23.4 M</div>
-                    </div>
-                    <div class="card-paper">
-                      <div class="card-paper-title">Marketing</div>
-                      <div class="card-paper-value">23.4 M</div>
+                      <div class="card-paper-value">23,242</div>
                     </div>
                     <div class="card-paper">
                       <div class="card-paper-title">Marketing</div>
